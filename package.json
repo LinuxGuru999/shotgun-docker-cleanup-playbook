@@ -1,0 +1,8 @@
+{
+  "name": "docker-cleanup-playbook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node docker-cleanup-playbook.js"
+  }
+}
